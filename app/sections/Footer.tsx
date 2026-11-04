@@ -2,7 +2,10 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <div className='relative bg-gradient-to-r from-[#696761] to-[#1E1E1E] w-full  min-h-screen'>
+    
+
+    </div>
   )
 }
 
